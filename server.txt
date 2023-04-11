@@ -1,0 +1,14 @@
+            _ _ _                 _      
+           | (_| |               | |     
+  ___ _ __ | |_| |_ ___  ___ __ _| | ___ 
+ / __| '_ \| | | __/ __|/ __/ _` | |/ _ \
+ \__ | |_) | | | |_\__ | (_| (_| | |  __/
+ |___| .__/|_|_|\__|___/\___\__,_|_|\___|
+     | |                                 
+     |_|
+
+Welcome to our CI Server!
+
+This server is responsible for running automated tests and building our codebase for the "REEMS" project.
+
+We use Jenkins as our CI tool and Git for version control.
